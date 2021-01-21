@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NUMAD21S-RuiWang</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_world">Hello World</string>
+    <string name="convert_string">Convert</string>
+    <string name="about_string">About</string>
+    <string name="dollars_string">holy</string>
+    <string name="email_string">wang.rui10@northeastern.edu</string>
+    <string name="name_string">Rui Wang</string>
+</resources>
