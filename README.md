@@ -1,3 +1,3 @@
 # NUMAD21S_RuiWang
 
-This is the first android mobile app I will develop.
+This is my first android mobile app, and I am developing it.
